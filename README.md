@@ -1,4 +1,8 @@
 # CL4D
+## Data
+The data will be released soon. Detailed information about the dataset can be found in `appendix.pdf`.
+
+
 ## Training
 We take phi-1 as an example to demonstrate the training method of CL4D.
 
